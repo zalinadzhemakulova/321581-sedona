@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Зульфиджа Гюндогду](https://up.htmlacademy.ru/htmlcss/22/user/321581).
-* Наставник: [Ольга Вадясова] (https://htmlacademy.ru/profile/ad0v0)
+* Наставник: [Ольга Вадясова](https://htmlacademy.ru/profile/ad0v0)
 
 ---
 
